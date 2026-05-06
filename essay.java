@@ -3,7 +3,7 @@
  * Topik: Jawaban Soal Essay Pemrograman Berorientasi Objek (OOP)
  */
 
-public class Essay {
+public class essay {
 
     /* =========================================================================
      * SOAL 1
